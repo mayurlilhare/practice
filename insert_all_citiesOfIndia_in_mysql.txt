@@ -1,0 +1,2964 @@
+create table cities(city_id int, city_name varchar(25), city_state varchar(20), primary key(city_id));
+
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1, 'Kolhapur', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(2, 'Port Blair', 'Andaman & Nicobar Islands');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(3, 'Adilabad', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(4, 'Adoni', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(5, 'Amadalavalasa', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(6, 'Amalapuram', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(7, 'Anakapalle', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(8, 'Anantapur', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(9, 'Badepalle', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(10, 'Banganapalle', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(11, 'Bapatla', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(12, 'Bellampalle', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(13, 'Bethamcherla', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(14, 'Bhadrachalam', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(15, 'Bhainsa', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(16, 'Bheemunipatnam', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(17, 'Bhimavaram', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(18, 'Bhongir', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(19, 'Bobbili', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(20, 'Bodhan', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(21, 'Chilakaluripet', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(22, 'Chirala', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(23, 'Chittoor', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(24, 'Cuddapah', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(25, 'Devarakonda', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(26, 'Dharmavaram', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(27, 'Eluru', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(28, 'Farooqnagar', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(29, 'Gadwal', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(30, 'Gooty', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(31, 'Gudivada', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(32, 'Gudur', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(33, 'Guntakal', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(34, 'Guntur', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(35, 'Hanuman Junction', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(36, 'Hindupur', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(37, 'Hyderabad', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(38, 'Ichchapuram', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(39, 'Jaggaiahpet', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(40, 'Jagtial', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(41, 'Jammalamadugu', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(42, 'Jangaon', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(43, 'Kadapa', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(44, 'Kadiri', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(45, 'Kagaznagar', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(46, 'Kakinada', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(47, 'Kalyandurg', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(48, 'Kamareddy', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(49, 'Kandukur', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(50, 'Karimnagar', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(51, 'Kavali', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(52, 'Khammam', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(53, 'Koratla', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(54, 'Kothagudem', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(55, 'Kothapeta', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(56, 'Kovvur', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(57, 'Kurnool', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(58, 'Kyathampalle', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(59, 'Macherla', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(60, 'Machilipatnam', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(61, 'Madanapalle', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(62, 'Mahbubnagar', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(63, 'Mancherial', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(64, 'Mandamarri', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(65, 'Mandapeta', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(66, 'Manuguru', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(67, 'Markapur', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(68, 'Medak', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(69, 'Miryalaguda', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(70, 'Mogalthur', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(71, 'Nagari', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(72, 'Nagarkurnool', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(73, 'Nandyal', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(74, 'Narasapur', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(75, 'Narasaraopet', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(76, 'Narayanpet', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(77, 'Narsipatnam', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(78, 'Nellore', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(79, 'Nidadavole', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(80, 'Nirmal', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(81, 'Nizamabad', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(82, 'Nuzvid', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(83, 'Ongole', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(84, 'Palacole', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(85, 'Palasa Kasibugga', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(86, 'Palwancha', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(87, 'Parvathipuram', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(88, 'Pedana', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(89, 'Peddapuram', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(90, 'Pithapuram', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(91, 'Pondur', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(92, 'Ponnur', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(93, 'Proddatur', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(94, 'Punganur', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(95, 'Puttur', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(96, 'Rajahmundry', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(97, 'Rajam', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(98, 'Ramachandrapuram', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(99, 'Ramagundam', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(100, 'Rayachoti', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(101, 'Rayadurg', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(102, 'Renigunta', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(103, 'Repalle', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(104, 'Sadasivpet', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(105, 'Salur', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(106, 'Samalkot', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(107, 'Sangareddy', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(108, 'Sattenapalle', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(109, 'Siddipet', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(110, 'Singapur', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(111, 'Sircilla', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(112, 'Srikakulam', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(113, 'Srikalahasti', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(115, 'Suryapet', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(116, 'Tadepalligudem', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(117, 'Tadpatri', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(118, 'Tandur', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(119, 'Tanuku', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(120, 'Tenali', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(121, 'Tirupati', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(122, 'Tuni', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(123, 'Uravakonda', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(124, 'Venkatagiri', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(125, 'Vicarabad', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(126, 'Vijayawada', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(127, 'Vinukonda', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(128, 'Visakhapatnam', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(129, 'Vizianagaram', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(130, 'Wanaparthy', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(131, 'Warangal', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(132, 'Yellandu', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(133, 'Yemmiganur', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(134, 'Yerraguntla', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(135, 'Zahirabad', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(136, 'Rajampet', 'Andhra Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(137, 'Along', 'Arunachal Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(138, 'Bomdila', 'Arunachal Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(139, 'Itanagar', 'Arunachal Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(140, 'Naharlagun', 'Arunachal Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(141, 'Pasighat', 'Arunachal Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(142, 'Abhayapuri', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(143, 'Amguri', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(144, 'Anandnagaar', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(145, 'Barpeta', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(146, 'Barpeta Road', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(147, 'Bilasipara', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(148, 'Bongaigaon', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(149, 'Dhekiajuli', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(150, 'Dhubri', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(151, 'Dibrugarh', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(152, 'Digboi', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(153, 'Diphu', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(154, 'Dispur', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(156, 'Gauripur', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(157, 'Goalpara', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(158, 'Golaghat', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(159, 'Guwahati', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(160, 'Haflong', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(161, 'Hailakandi', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(162, 'Hojai', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(163, 'Jorhat', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(164, 'Karimganj', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(165, 'Kokrajhar', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(166, 'Lanka', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(167, 'Lumding', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(168, 'Mangaldoi', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(169, 'Mankachar', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(170, 'Margherita', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(171, 'Mariani', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(172, 'Marigaon', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(173, 'Nagaon', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(174, 'Nalbari', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(175, 'North Lakhimpur', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(176, 'Rangia', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(177, 'Sibsagar', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(178, 'Silapathar', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(179, 'Silchar', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(180, 'Tezpur', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(181, 'Tinsukia', 'Assam');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(182, 'Amarpur', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(183, 'Araria', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(184, 'Areraj', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(185, 'Arrah', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(186, 'Asarganj', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(187, 'Aurangabad', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(188, 'Bagaha', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(189, 'Bahadurganj', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(190, 'Bairgania', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(191, 'Bakhtiarpur', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(192, 'Banka', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(193, 'Banmankhi Bazar', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(194, 'Barahiya', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(195, 'Barauli', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(196, 'Barbigha', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(197, 'Barh', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(198, 'Begusarai', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(199, 'Behea', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(200, 'Bettiah', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(201, 'Bhabua', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(202, 'Bhagalpur', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(203, 'Bihar Sharif', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(204, 'Bikramganj', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(205, 'Bodh Gaya', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(206, 'Buxar', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(207, 'Chandan Bara', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(208, 'Chanpatia', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(209, 'Chhapra', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(210, 'Colgong', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(211, 'Dalsinghsarai', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(212, 'Darbhanga', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(213, 'Daudnagar', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(214, 'Dehri-on-Sone', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(215, 'Dhaka', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(216, 'Dighwara', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(217, 'Dumraon', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(218, 'Fatwah', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(219, 'Forbesganj', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(220, 'Gaya', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(221, 'Gogri Jamalpur', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(222, 'Gopalganj', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(223, 'Hajipur', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(224, 'Hilsa', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(225, 'Hisua', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(226, 'Islampur', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(227, 'Jagdispur', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(228, 'Jamalpur', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(229, 'Jamui', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(230, 'Jehanabad', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(231, 'Jhajha', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(232, 'Jhanjharpur', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(233, 'Jogabani', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(234, 'Kanti', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(235, 'Katihar', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(236, 'Khagaria', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(237, 'Kharagpur', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(238, 'Kishanganj', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(239, 'Lakhisarai', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(240, 'Lalganj', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(241, 'Madhepura', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(242, 'Madhubani', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(243, 'Maharajganj', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(244, 'Mahnar Bazar', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(245, 'Makhdumpur', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(246, 'Maner', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(247, 'Manihari', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(248, 'Marhaura', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(249, 'Masaurhi', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(250, 'Mirganj', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(251, 'Mokameh', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(252, 'Motihari', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(253, 'Motipur', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(254, 'Munger', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(255, 'Murliganj', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(256, 'Muzaffarpur', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(257, 'Narkatiaganj', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(258, 'Naugachhia', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(259, 'Nawada', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(260, 'Nokha', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(261, 'Patna', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(262, 'Piro', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(263, 'Purnia', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(264, 'Rafiganj', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(265, 'Rajgir', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(266, 'Ramnagar', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(267, 'Raxaul Bazar', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(268, 'Revelganj', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(269, 'Rosera', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(270, 'Saharsa', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(271, 'Samastipur', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(272, 'Sasaram', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(273, 'Sheikhpura', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(274, 'Sheohar', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(275, 'Sherghati', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(276, 'Silao', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(277, 'Sitamarhi', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(278, 'Siwan', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(279, 'Sonepur', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(280, 'Sugauli', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(281, 'Sultanganj', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(282, 'Supaul', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(283, 'Warisaliganj', 'Bihar');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(284, 'Ahiwara', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(285, 'Akaltara', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(286, 'Ambagarh Chowki', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(287, 'Ambikapur', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(288, 'Arang', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(289, 'Bade Bacheli', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(290, 'Balod', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(291, 'Baloda Bazar', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(292, 'Bemetra', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(293, 'Bhatapara', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(294, 'Bilaspur', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(295, 'Birgaon', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(296, 'Champa', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(297, 'Chirmiri', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(298, 'Dalli-Rajhara', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(299, 'Dhamtari', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(300, 'Dipka', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(301, 'Dongargarh', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(302, 'Durg-Bhilai Nagar', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(303, 'Gobranawapara', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(304, 'Jagdalpur', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(305, 'Janjgir', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(306, 'Jashpurnagar', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(307, 'Kanker', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(308, 'Kawardha', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(309, 'Kondagaon', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(310, 'Korba', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(311, 'Mahasamund', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(312, 'Mahendragarh', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(313, 'Mungeli', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(314, 'Naila Janjgir', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(315, 'Raigarh', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(316, 'Raipur', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(317, 'Rajnandgaon', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(318, 'Sakti', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(319, 'Tilda Newra', 'Chhattisgarh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(320, 'Amli', 'Dadra & Nagar Haveli');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(321, 'Silvassa', 'Dadra & Nagar Haveli');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(322, 'Daman and Diu', 'Daman & Diu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(323, 'Daman and Diu', 'Daman & Diu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(324, 'Asola', 'Delhi');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(325, 'Delhi', 'Delhi');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(326, 'Aldona', 'Goa');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(327, 'Curchorem Cacora', 'Goa');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(328, 'Madgaon', 'Goa');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(329, 'Mapusa', 'Goa');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(330, 'Margao', 'Goa');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(331, 'Marmagao', 'Goa');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(332, 'Panaji', 'Goa');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(333, 'Ahmedabad', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(334, 'Amreli', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(335, 'Anand', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(336, 'Ankleshwar', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(337, 'Bharuch', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(338, 'Bhavnagar', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(339, 'Bhuj', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(340, 'Cambay', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(341, 'Dahod', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(342, 'Deesa', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(343, 'Dharampur', ' India');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(344, 'Dholka', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(345, 'Gandhinagar', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(346, 'Godhra', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(347, 'Himatnagar', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(348, 'Idar', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(349, 'Jamnagar', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(350, 'Junagadh', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(351, 'Kadi', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(352, 'Kalavad', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(353, 'Kalol', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(354, 'Kapadvanj', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(355, 'Karjan', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(356, 'Keshod', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(357, 'Khambhalia', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(358, 'Khambhat', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(359, 'Kheda', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(360, 'Khedbrahma', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(361, 'Kheralu', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(362, 'Kodinar', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(363, 'Lathi', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(364, 'Limbdi', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(365, 'Lunawada', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(366, 'Mahesana', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(367, 'Mahuva', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(368, 'Manavadar', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(369, 'Mandvi', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(370, 'Mangrol', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(371, 'Mansa', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(372, 'Mehmedabad', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(373, 'Modasa', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(374, 'Morvi', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(375, 'Nadiad', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(376, 'Navsari', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(377, 'Padra', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(378, 'Palanpur', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(379, 'Palitana', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(380, 'Pardi', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(381, 'Patan', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(382, 'Petlad', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(383, 'Porbandar', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(384, 'Radhanpur', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(385, 'Rajkot', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(386, 'Rajpipla', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(387, 'Rajula', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(388, 'Ranavav', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(389, 'Rapar', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(390, 'Salaya', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(391, 'Sanand', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(392, 'Savarkundla', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(393, 'Sidhpur', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(394, 'Sihor', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(395, 'Songadh', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(396, 'Surat', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(397, 'Talaja', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(398, 'Thangadh', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(399, 'Tharad', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(400, 'Umbergaon', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(401, 'Umreth', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(402, 'Una', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(403, 'Unjha', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(404, 'Upleta', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(405, 'Vadnagar', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(406, 'Vadodara', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(407, 'Valsad', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(408, 'Vapi', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(409, 'Vapi', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(410, 'Veraval', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(411, 'Vijapur', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(412, 'Viramgam', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(413, 'Visnagar', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(414, 'Vyara', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(415, 'Wadhwan', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(416, 'Wankaner', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(417, 'Adalaj', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(418, 'Adityana', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(419, 'Alang', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(420, 'Ambaji', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(421, 'Ambaliyasan', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(422, 'Andada', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(423, 'Anjar', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(424, 'Anklav', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(425, 'Antaliya', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(426, 'Arambhada', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(427, 'Atul', 'Gujarat');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(428, 'Ballabhgarh', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(429, 'Ambala', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(430, 'Ambala', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(431, 'Asankhurd', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(432, 'Assandh', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(433, 'Ateli', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(434, 'Babiyal', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(435, 'Bahadurgarh', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(436, 'Barwala', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(437, 'Bhiwani', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(438, 'Charkhi Dadri', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(439, 'Cheeka', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(440, 'Ellenabad 2', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(441, 'Faridabad', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(442, 'Fatehabad', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(443, 'Ganaur', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(444, 'Gharaunda', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(445, 'Gohana', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(446, 'Gurgaon', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(447, 'Haibat(Yamuna Nagar)', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(448, 'Hansi', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(449, 'Hisar', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(450, 'Hodal', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(451, 'Jhajjar', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(452, 'Jind', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(453, 'Kaithal', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(454, 'Kalan Wali', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(455, 'Kalka', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(456, 'Karnal', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(457, 'Ladwa', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(458, 'Mahendragarh', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(459, 'Mandi Dabwali', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(460, 'Narnaul', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(461, 'Narwana', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(462, 'Palwal', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(463, 'Panchkula', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(464, 'Panipat', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(465, 'Pehowa', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(466, 'Pinjore', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(467, 'Rania', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(468, 'Ratia', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(469, 'Rewari', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(470, 'Rohtak', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(471, 'Safidon', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(472, 'Samalkha', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(473, 'Shahbad', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(474, 'Sirsa', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(475, 'Sohna', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(476, 'Sonipat', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(477, 'Taraori', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(478, 'Thanesar', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(479, 'Tohana', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(480, 'Yamunanagar', 'Haryana');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(481, 'Arki', 'Himachal Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(482, 'Baddi', 'Himachal Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(483, 'Bilaspur', 'Himachal Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(484, 'Chamba', 'Himachal Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(485, 'Dalhousie', 'Himachal Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(486, 'Dharamsala', 'Himachal Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(487, 'Hamirpur', 'Himachal Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(488, 'Mandi', 'Himachal Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(489, 'Nahan', 'Himachal Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(490, 'Shimla', 'Himachal Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(491, 'Solan', 'Himachal Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(492, 'Sundarnagar', 'Himachal Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(493, 'Jammu', 'Jammu & Kashmir');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(494, 'Achabbal', 'Jammu & Kashmir');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(495, 'Akhnoor', 'Jammu & Kashmir');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(496, 'Anantnag', 'Jammu & Kashmir');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(497, 'Arnia', 'Jammu & Kashmir');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(498, 'Awantipora', 'Jammu & Kashmir');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(499, 'Bandipore', 'Jammu & Kashmir');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(500, 'Baramula', 'Jammu & Kashmir');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(501, 'Kathua', 'Jammu & Kashmir');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(502, 'Leh', 'Jammu & Kashmir');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(503, 'Punch', 'Jammu & Kashmir');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(504, 'Rajauri', 'Jammu & Kashmir');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(505, 'Sopore', 'Jammu & Kashmir');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(506, 'Srinagar', 'Jammu & Kashmir');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(507, 'Udhampur', 'Jammu & Kashmir');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(508, 'Amlabad', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(509, 'Ara', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(510, 'Barughutu', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(511, 'Bokaro Steel City', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(512, 'Chaibasa', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(513, 'Chakradharpur', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(514, 'Chandrapura', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(515, 'Chatra', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(516, 'Chirkunda', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(517, 'Churi', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(518, 'Daltonganj', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(519, 'Deoghar', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(520, 'Dhanbad', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(521, 'Dumka', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(522, 'Garhwa', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(523, 'Ghatshila', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(524, 'Giridih', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(525, 'Godda', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(526, 'Gomoh', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(527, 'Gumia', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(528, 'Gumla', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(529, 'Hazaribag', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(530, 'Hussainabad', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(531, 'Jamshedpur', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(532, 'Jamtara', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(533, 'Jhumri Tilaiya', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(534, 'Khunti', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(535, 'Lohardaga', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(536, 'Madhupur', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(537, 'Mihijam', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(538, 'Musabani', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(539, 'Pakaur', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(540, 'Patratu', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(541, 'Phusro', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(542, 'Ramngarh', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(543, 'Ranchi', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(544, 'Sahibganj', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(545, 'Saunda', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(546, 'Simdega', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(547, 'Tenu Dam-cum- Kathhara', 'Jharkhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(548, 'Arasikere', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(549, 'Bangalore', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(550, 'Belgaum', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(551, 'Bellary', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(552, 'Chamrajnagar', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(553, 'Chikkaballapur', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(554, 'Chintamani', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(555, 'Chitradurga', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(556, 'Gulbarga', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(557, 'Gundlupet', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(558, 'Hassan', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(559, 'Hospet', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(560, 'Hubli', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(561, 'Karkala', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(562, 'Karwar', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(563, 'Kolar', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(564, 'Kota', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(565, 'Lakshmeshwar', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(566, 'Lingsugur', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(567, 'Maddur', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(568, 'Madhugiri', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(569, 'Madikeri', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(570, 'Magadi', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(571, 'Mahalingpur', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(572, 'Malavalli', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(573, 'Malur', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(574, 'Mandya', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(575, 'Mangalore', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(576, 'Manvi', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(577, 'Mudalgi', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(578, 'Mudbidri', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(579, 'Muddebihal', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(580, 'Mudhol', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(581, 'Mulbagal', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(582, 'Mundargi', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(583, 'Mysore', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(584, 'Nanjangud', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(585, 'Pavagada', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(586, 'Puttur', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(587, 'Rabkavi Banhatti', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(588, 'Raichur', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(589, 'Ramanagaram', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(590, 'Ramdurg', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(591, 'Ranibennur', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(592, 'Robertson Pet', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(593, 'Ron', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(594, 'Sadalgi', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(595, 'Sagar', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(596, 'Sakleshpur', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(597, 'Sandur', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(598, 'Sankeshwar', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(599, 'Saundatti-Yellamma', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(600, 'Savanur', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(601, 'Sedam', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(602, 'Shahabad', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(603, 'Shahpur', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(604, 'Shiggaon', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(605, 'Shikapur', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(606, 'Shimoga', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(607, 'Shorapur', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(608, 'Shrirangapattana', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(609, 'Sidlaghatta', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(610, 'Sindgi', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(611, 'Sindhnur', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(612, 'Sira', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(613, 'Sirsi', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(614, 'Siruguppa', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(615, 'Srinivaspur', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(616, 'Talikota', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(617, 'Tarikere', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(618, 'Tekkalakota', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(619, 'Terdal', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(620, 'Tiptur', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(621, 'Tumkur', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(622, 'Udupi', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(623, 'Vijayapura', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(624, 'Wadi', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(625, 'Yadgir', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(626, 'Adoor', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(627, 'Akathiyoor', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(628, 'Alappuzha', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(629, 'Ancharakandy', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(630, 'Aroor', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(631, 'Ashtamichira', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(632, 'Attingal', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(633, 'Avinissery', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(634, 'Chalakudy', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(635, 'Changanassery', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(636, 'Chendamangalam', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(637, 'Chengannur', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(638, 'Cherthala', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(639, 'Cheruthazham', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(640, 'Chittur-Thathamangalam', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(641, 'Chockli', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(642, 'Erattupetta', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(643, 'Guruvayoor', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(644, 'Irinjalakuda', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(645, 'Kadirur', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(646, 'Kalliasseri', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(647, 'Kalpetta', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(648, 'Kanhangad', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(649, 'Kanjikkuzhi', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(650, 'Kannur', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(651, 'Kasaragod', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(652, 'Kayamkulam', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(653, 'Kochi', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(654, 'Kodungallur', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(655, 'Kollam', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(656, 'Koothuparamba', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(657, 'Kothamangalam', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(658, 'Kottayam', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(659, 'Kozhikode', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(660, 'Kunnamkulam', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(661, 'Malappuram', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(662, 'Mattannur', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(663, 'Mavelikkara', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(664, 'Mavoor', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(665, 'Muvattupuzha', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(666, 'Nedumangad', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(667, 'Neyyattinkara', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(668, 'Ottappalam', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(669, 'Palai', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(670, 'Palakkad', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(671, 'Panniyannur', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(672, 'Pappinisseri', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(673, 'Paravoor', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(674, 'Pathanamthitta', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(675, 'Payyannur', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(676, 'Peringathur', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(677, 'Perinthalmanna', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(678, 'Perumbavoor', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(679, 'Ponnani', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(680, 'Punalur', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(681, 'Quilandy', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(682, 'Shoranur', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(683, 'Taliparamba', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(684, 'Thiruvalla', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(685, 'Thiruvananthapuram', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(686, 'Thodupuzha', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(687, 'Thrissur', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(688, 'Tirur', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(689, 'Vadakara', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(690, 'Vaikom', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(691, 'Varkala', 'Kerala');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(692, 'Kavaratti', 'Lakshadweep');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(693, 'Ashok Nagar', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(694, 'Balaghat', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(695, 'Betul', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(696, 'Bhopal', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(697, 'Burhanpur', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(698, 'Chhatarpur', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(699, 'Dabra', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(700, 'Datia', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(701, 'Dewas', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(702, 'Dhar', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(703, 'Fatehabad', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(704, 'Gwalior', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(705, 'Indore', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(706, 'Itarsi', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(707, 'Jabalpur', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(708, 'Katni', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(709, 'Kotma', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(710, 'Lahar', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(711, 'Lundi', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(712, 'Maharajpur', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(713, 'Mahidpur', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(714, 'Maihar', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(715, 'Malajkhand', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(716, 'Manasa', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(717, 'Manawar', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(718, 'Mandideep', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(719, 'Mandla', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(720, 'Mandsaur', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(721, 'Mauganj', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(722, 'Mhow Cantonment', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(723, 'Mhowgaon', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(724, 'Morena', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(725, 'Multai', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(726, 'Murwara', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(727, 'Nagda', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(728, 'Nainpur', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(729, 'Narsinghgarh', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(730, 'Narsinghgarh', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(731, 'Neemuch', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(732, 'Nepanagar', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(733, 'Niwari', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(734, 'Nowgong', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(735, 'Nowrozabad', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(736, 'Pachore', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(737, 'Pali', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(738, 'Panagar', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(739, 'Pandhurna', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(740, 'Panna', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(741, 'Pasan', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(742, 'Pipariya', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(743, 'Pithampur', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(744, 'Porsa', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(745, 'Prithvipur', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(746, 'Raghogarh-Vijaypur', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(747, 'Rahatgarh', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(748, 'Raisen', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(749, 'Rajgarh', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(750, 'Ratlam', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(751, 'Rau', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(752, 'Rehli', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(753, 'Rewa', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(754, 'Sabalgarh', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(755, 'Sagar', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(756, 'Sanawad', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(757, 'Sarangpur', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(758, 'Sarni', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(759, 'Satna', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(760, 'Sausar', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(761, 'Sehore', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(762, 'Sendhwa', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(763, 'Seoni', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(764, 'Seoni-Malwa', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(765, 'Shahdol', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(766, 'Shajapur', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(767, 'Shamgarh', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(768, 'Sheopur', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(769, 'Shivpuri', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(770, 'Shujalpur', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(771, 'Sidhi', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(772, 'Sihora', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(773, 'Singrauli', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(774, 'Sironj', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(775, 'Sohagpur', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(776, 'Tarana', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(777, 'Tikamgarh', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(778, 'Ujhani', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(779, 'Ujjain', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(780, 'Umaria', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(781, 'Vidisha', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(782, 'Wara Seoni', 'Madhya Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(783, 'Ahmednagar', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(784, 'Akola', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(785, 'Amravati', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(786, 'Aurangabad', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(787, 'Baramati', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(788, 'Chalisgaon', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(789, 'Chinchani', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(790, 'Devgarh', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(791, 'Dhule', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(792, 'Dombivli', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(793, 'Durgapur', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(794, 'Ichalkaranji', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(795, 'Jalna', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(796, 'Kalyan', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(797, 'Latur', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(798, 'Loha', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(799, 'Lonar', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(800, 'Lonavla', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(801, 'Mahad', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(802, 'Mahuli', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(803, 'Malegaon', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(804, 'Malkapur', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(805, 'Manchar', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(806, 'Mangalvedhe', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(807, 'Mangrulpir', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(808, 'Manjlegaon', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(809, 'Manmad', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(810, 'Manwath', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(811, 'Mehkar', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(812, 'Mhaswad', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(813, 'Miraj', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(814, 'Morshi', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(815, 'Mukhed', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(816, 'Mul', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(817, 'Mumbai', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(818, 'Murtijapur', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(819, 'Nagpur', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(820, 'Nalasopara', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(821, 'Nanded-Waghala', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(822, 'Nandgaon', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(823, 'Nandura', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(824, 'Nandurbar', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(825, 'Narkhed', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(826, 'Nashik', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(827, 'Navi Mumbai', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(828, 'Nawapur', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(829, 'Nilanga', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(830, 'Osmanabad', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(831, 'Ozar', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(832, 'Pachora', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(833, 'Paithan', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(834, 'Palghar', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(835, 'Pandharkaoda', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(836, 'Pandharpur', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(837, 'Panvel', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(838, 'Parbhani', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(839, 'Parli', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(840, 'Parola', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(841, 'Partur', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(842, 'Pathardi', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(843, 'Pathri', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(844, 'Patur', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(845, 'Pauni', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(846, 'Pen', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(847, 'Phaltan', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(848, 'Pulgaon', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(849, 'Pune', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(850, 'Purna', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(851, 'Pusad', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(852, 'Rahuri', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(853, 'Rajura', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(854, 'Ramtek', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(855, 'Ratnagiri', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(856, 'Raver', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(857, 'Risod', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(858, 'Sailu', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(859, 'Sangamner', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(860, 'Sangli', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(861, 'Sangole', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(862, 'Sasvad', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(863, 'Satana', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(864, 'Satara', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(865, 'Savner', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(866, 'Sawantwadi', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(867, 'Shahade', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(868, 'Shegaon', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(869, 'Shendurjana', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(870, 'Shirdi', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(871, 'Shirpur-Warwade', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(872, 'Shirur', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(873, 'Shrigonda', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(874, 'Shrirampur', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(875, 'Sillod', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(876, 'Sinnar', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(877, 'Solapur', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(878, 'Soyagaon', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(879, 'Talegaon Dabhade', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(880, 'Talode', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(881, 'Tasgaon', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(882, 'Tirora', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(883, 'Tuljapur', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(884, 'Tumsar', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(885, 'Uran', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(886, 'Uran Islampur', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(887, 'Wadgaon Road', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(888, 'Wai', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(889, 'Wani', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(890, 'Wardha', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(891, 'Warora', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(892, 'Warud', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(893, 'Washim', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(894, 'Yevla', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(895, 'Uchgaon', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(896, 'Udgir', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(897, 'Umarga', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(898, 'Umarkhed', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(899, 'Umred', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(900, 'Vadgaon Kasba', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(901, 'Vaijapur', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(902, 'Vasai', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(903, 'Virar', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(904, 'Vita', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(905, 'Yavatmal', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(906, 'Yawal', 'Maharashtra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(907, 'Imphal', 'Manipur');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(908, 'Kakching', 'Manipur');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(909, 'Lilong', 'Manipur');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(910, 'Mayang Imphal', 'Manipur');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(911, 'Thoubal', 'Manipur');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(912, 'Jowai', 'Meghalaya');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(913, 'Nongstoin', 'Meghalaya');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(914, 'Shillong', 'Meghalaya');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(915, 'Tura', 'Meghalaya');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(916, 'Aizawl', 'Mizoram');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(917, 'Champhai', 'Mizoram');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(918, 'Lunglei', 'Mizoram');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(919, 'Saiha', 'Mizoram');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(920, 'Dimapur', 'Nagaland');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(921, 'Kohima', 'Nagaland');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(922, 'Mokokchung', 'Nagaland');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(923, 'Tuensang', 'Nagaland');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(924, 'Wokha', 'Nagaland');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(925, 'Zunheboto', 'Nagaland');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(950, 'Anandapur', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(951, 'Anugul', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(952, 'Asika', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(953, 'Balangir', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(954, 'Balasore', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(955, 'Baleshwar', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(956, 'Bamra', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(957, 'Barbil', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(958, 'Bargarh', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(959, 'Bargarh', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(960, 'Baripada', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(961, 'Basudebpur', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(962, 'Belpahar', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(963, 'Bhadrak', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(964, 'Bhawanipatna', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(965, 'Bhuban', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(966, 'Bhubaneswar', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(967, 'Biramitrapur', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(968, 'Brahmapur', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(969, 'Brajrajnagar', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(970, 'Byasanagar', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(971, 'Cuttack', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(972, 'Debagarh', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(973, 'Dhenkanal', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(974, 'Gunupur', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(975, 'Hinjilicut', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(976, 'Jagatsinghapur', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(977, 'Jajapur', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(978, 'Jaleswar', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(979, 'Jatani', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(980, 'Jeypur', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(981, 'Jharsuguda', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(982, 'Joda', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(983, 'Kantabanji', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(984, 'Karanjia', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(985, 'Kendrapara', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(986, 'Kendujhar', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(987, 'Khordha', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(988, 'Koraput', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(989, 'Malkangiri', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(990, 'Nabarangapur', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(991, 'Paradip', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(992, 'Parlakhemundi', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(993, 'Pattamundai', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(994, 'Phulabani', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(995, 'Puri', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(996, 'Rairangpur', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(997, 'Rajagangapur', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(998, 'Raurkela', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(999, 'Rayagada', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1000, 'Sambalpur', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1001, 'Soro', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1002, 'Sunabeda', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1003, 'Sundargarh', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1004, 'Talcher', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1005, 'Titlagarh', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1006, 'Umarkote', 'Odisha');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1007, 'Karaikal', 'Puducherry');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1008, 'Mahe', 'Puducherry');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1009, 'Puducherry', 'Puducherry');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1010, 'Yanam', 'Puducherry');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1011, 'Ahmedgarh', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1012, 'Amritsar', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1013, 'Barnala', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1014, 'Batala', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1015, 'Bathinda', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1016, 'Bhagha Purana', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1017, 'Budhlada', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1018, 'Chandigarh', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1019, 'Dasua', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1020, 'Dhuri', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1021, 'Dinanagar', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1022, 'Faridkot', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1023, 'Fazilka', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1024, 'Firozpur', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1025, 'Firozpur Cantt.', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1026, 'Giddarbaha', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1027, 'Gobindgarh', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1028, 'Gurdaspur', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1029, 'Hoshiarpur', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1030, 'Jagraon', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1031, 'Jaitu', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1032, 'Jalalabad', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1033, 'Jalandhar', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1034, 'Jalandhar Cantt.', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1035, 'Jandiala', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1036, 'Kapurthala', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1037, 'Karoran', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1038, 'Kartarpur', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1039, 'Khanna', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1040, 'Kharar', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1041, 'Kot Kapura', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1042, 'Kurali', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1043, 'Longowal', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1044, 'Ludhiana', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1045, 'Malerkotla', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1046, 'Malout', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1047, 'Mansa', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1048, 'Maur', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1049, 'Moga', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1050, 'Mohali', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1051, 'Morinda', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1052, 'Mukerian', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1053, 'Muktsar', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1054, 'Nabha', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1055, 'Nakodar', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1056, 'Nangal', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1057, 'Nawanshahr', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1058, 'Pathankot', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1059, 'Patiala', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1060, 'Patran', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1061, 'Patti', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1062, 'Phagwara', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1063, 'Phillaur', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1064, 'Qadian', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1065, 'Raikot', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1066, 'Rajpura', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1067, 'Rampura Phul', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1068, 'Rupnagar', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1069, 'Samana', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1070, 'Sangrur', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1071, 'Sirhind Fatehgarh Sahib', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1072, 'Sujanpur', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1073, 'Sunam', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1074, 'Talwara', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1075, 'Tarn Taran', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1076, 'Urmar Tanda', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1077, 'Zira', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1078, 'Zirakpur', 'Punjab');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1079, 'Bali', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1080, 'Banswara', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1081, 'Ajmer', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1082, 'Alwar', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1083, 'Bandikui', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1084, 'Baran', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1085, 'Barmer', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1086, 'Bikaner', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1087, 'Fatehpur', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1088, 'Jaipur', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1089, 'Jaisalmer', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1090, 'Jodhpur', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1091, 'Kota', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1092, 'Lachhmangarh', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1093, 'Ladnu', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1094, 'Lakheri', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1095, 'Lalsot', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1096, 'Losal', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1097, 'Makrana', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1098, 'Malpura', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1099, 'Mandalgarh', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1100, 'Mandawa', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1101, 'Mangrol', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1102, 'Merta City', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1103, 'Mount Abu', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1104, 'Nadbai', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1105, 'Nagar', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1106, 'Nagaur', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1107, 'Nargund', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1108, 'Nasirabad', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1109, 'Nathdwara', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1110, 'Navalgund', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1111, 'Nawalgarh', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1112, 'Neem-Ka-Thana', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1113, 'Nelamangala', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1114, 'Nimbahera', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1115, 'Nipani', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1116, 'Niwai', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1117, 'Nohar', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1118, 'Nokha', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1119, 'Pali', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1120, 'Phalodi', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1121, 'Phulera', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1122, 'Pilani', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1123, 'Pilibanga', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1124, 'Pindwara', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1125, 'Pipar City', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1126, 'Prantij', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1127, 'Pratapgarh', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1128, 'Raisinghnagar', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1129, 'Rajakhera', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1130, 'Rajaldesar', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1131, 'Rajgarh (Alwar)', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1132, 'Rajgarh (Churu', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1133, 'Rajsamand', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1134, 'Ramganj Mandi', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1135, 'Ramngarh', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1136, 'Ratangarh', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1137, 'Rawatbhata', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1138, 'Rawatsar', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1139, 'Reengus', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1140, 'Sadri', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1141, 'Sadulshahar', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1142, 'Sagwara', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1143, 'Sambhar', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1144, 'Sanchore', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1145, 'Sangaria', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1146, 'Sardarshahar', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1147, 'Sawai Madhopur', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1148, 'Shahpura', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1149, 'Shahpura', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1150, 'Sheoganj', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1151, 'Sikar', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1152, 'Sirohi', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1153, 'Sojat', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1154, 'Sri Madhopur', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1155, 'Sujangarh', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1156, 'Sumerpur', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1157, 'Suratgarh', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1158, 'Taranagar', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1159, 'Todabhim', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1160, 'Todaraisingh', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1161, 'Tonk', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1162, 'Udaipur', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1163, 'Udaipurwati', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1164, 'Vijainagar', 'Rajasthan');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1165, 'Gangtok', 'Sikkim');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1166, 'Calcutta', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1167, 'Arakkonam', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1168, 'Arcot', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1169, 'Aruppukkottai', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1170, 'Bhavani', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1171, 'Chengalpattu', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1172, 'Chennai', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1173, 'Chinna salem', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1174, 'Coimbatore', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1175, 'Coonoor', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1176, 'Cuddalore', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1177, 'Dharmapuri', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1178, 'Dindigul', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1179, 'Erode', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1180, 'Gudalur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1181, 'Gudalur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1182, 'Gudalur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1183, 'Kanchipuram', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1184, 'Karaikudi', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1185, 'Karungal', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1186, 'Karur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1187, 'Kollankodu', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1188, 'Lalgudi', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1189, 'Madurai', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1190, 'Nagapattinam', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1191, 'Nagercoil', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1192, 'Namagiripettai', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1193, 'Namakkal', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1194, 'Nandivaram-Guduvancheri', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1195, 'Nanjikottai', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1196, 'Natham', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1197, 'Nellikuppam', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1198, 'Neyveli', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1199, 'O'' Valley', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1200, 'Oddanchatram', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1201, 'P.N.Patti', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1202, 'Pacode', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1203, 'Padmanabhapuram', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1204, 'Palani', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1205, 'Palladam', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1206, 'Pallapatti', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1207, 'Pallikonda', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1208, 'Panagudi', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1209, 'Panruti', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1210, 'Paramakudi', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1211, 'Parangipettai', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1212, 'Pattukkottai', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1213, 'Perambalur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1214, 'Peravurani', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1215, 'Periyakulam', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1216, 'Periyasemur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1217, 'Pernampattu', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1218, 'Pollachi', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1219, 'Polur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1220, 'Ponneri', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1221, 'Pudukkottai', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1222, 'Pudupattinam', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1223, 'Puliyankudi', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1224, 'Punjaipugalur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1225, 'Rajapalayam', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1226, 'Ramanathapuram', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1227, 'Rameshwaram', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1228, 'Rasipuram', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1229, 'Salem', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1230, 'Sankarankoil', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1231, 'Sankari', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1232, 'Sathyamangalam', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1233, 'Sattur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1234, 'Shenkottai', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1235, 'Sholavandan', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1236, 'Sholingur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1237, 'Sirkali', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1238, 'Sivaganga', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1239, 'Sivagiri', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1240, 'Sivakasi', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1241, 'Srivilliputhur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1242, 'Surandai', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1243, 'Suriyampalayam', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1244, 'Tenkasi', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1245, 'Thammampatti', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1246, 'Thanjavur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1247, 'Tharamangalam', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1248, 'Tharangambadi', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1249, 'Theni Allinagaram', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1250, 'Thirumangalam', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1251, 'Thirunindravur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1252, 'Thiruparappu', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1253, 'Thirupuvanam', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1254, 'Thiruthuraipoondi', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1255, 'Thiruvallur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1256, 'Thiruvarur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1257, 'Thoothukudi', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1258, 'Thuraiyur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1259, 'Tindivanam', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1260, 'Tiruchendur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1261, 'Tiruchengode', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1262, 'Tiruchirappalli', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1263, 'Tirukalukundram', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1264, 'Tirukkoyilur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1265, 'Tirunelveli', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1266, 'Tirupathur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1267, 'Tirupathur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1268, 'Tiruppur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1269, 'Tiruttani', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1270, 'Tiruvannamalai', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1271, 'Tiruvethipuram', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1272, 'Tittakudi', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1273, 'Udhagamandalam', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1274, 'Udumalaipettai', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1275, 'Unnamalaikadai', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1276, 'Usilampatti', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1277, 'Uthamapalayam', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1278, 'Uthiramerur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1279, 'Vadakkuvalliyur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1280, 'Vadalur', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1281, 'Vadipatti', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1282, 'Valparai', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1283, 'Vandavasi', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1284, 'Vaniyambadi', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1285, 'Vedaranyam', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1286, 'Vellakoil', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1287, 'Vellore', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1288, 'Vikramasingapuram', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1289, 'Viluppuram', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1290, 'Virudhachalam', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1291, 'Virudhunagar', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1292, 'Viswanatham', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1293, 'Agartala', 'Tripura');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1294, 'Badharghat', 'Tripura');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1295, 'Dharmanagar', 'Tripura');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1296, 'Indranagar', 'Tripura');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1297, 'Jogendranagar', 'Tripura');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1298, 'Kailasahar', 'Tripura');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1299, 'Khowai', 'Tripura');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1300, 'Pratapgarh', 'Tripura');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1301, 'Udaipur', 'Tripura');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1302, 'Achhnera', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1303, 'Adari', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1304, 'Agra', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1305, 'Aligarh', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1306, 'Allahabad', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1307, 'Amroha', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1308, 'Azamgarh', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1309, 'Bahraich', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1310, 'Ballia', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1311, 'Balrampur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1312, 'Banda', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1313, 'Bareilly', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1314, 'Chandausi', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1315, 'Dadri', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1316, 'Deoria', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1317, 'Etawah', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1318, 'Fatehabad', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1319, 'Fatehpur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1320, 'Fatehpur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1321, 'Greater Noida', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1322, 'Hamirpur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1323, 'Hardoi', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1324, 'Jajmau', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1325, 'Jaunpur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1326, 'Jhansi', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1327, 'Kalpi', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1328, 'Kanpur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1329, 'Kota', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1330, 'Laharpur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1331, 'Lakhimpur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1332, 'Lal Gopalganj Nindaura', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1333, 'Lalganj', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1334, 'Lalitpur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1335, 'Lar', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1336, 'Loni', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1337, 'Lucknow', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1338, 'Mathura', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1339, 'Meerut', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1340, 'Modinagar', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1341, 'Muradnagar', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1342, 'Nagina', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1343, 'Najibabad', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1344, 'Nakur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1345, 'Nanpara', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1346, 'Naraura', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1347, 'Naugawan Sadat', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1348, 'Nautanwa', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1349, 'Nawabganj', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1350, 'Nehtaur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1351, 'NOIDA', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1352, 'Noorpur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1353, 'Obra', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1354, 'Orai', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1355, 'Padrauna', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1356, 'Palia Kalan', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1357, 'Parasi', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1358, 'Phulpur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1359, 'Pihani', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1360, 'Pilibhit', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1361, 'Pilkhuwa', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1362, 'Powayan', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1363, 'Pukhrayan', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1364, 'Puranpur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1365, 'Purquazi', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1366, 'Purwa', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1367, 'Rae Bareli', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1368, 'Rampur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1369, 'Rampur Maniharan', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1370, 'Rasra', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1371, 'Rath', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1372, 'Renukoot', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1373, 'Reoti', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1374, 'Robertsganj', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1375, 'Rudauli', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1376, 'Rudrapur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1377, 'Sadabad', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1378, 'Safipur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1379, 'Saharanpur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1380, 'Sahaspur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1381, 'Sahaswan', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1382, 'Sahawar', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1383, 'Sahjanwa', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1384, 'Saidpur', ' Ghazipur');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1385, 'Sambhal', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1386, 'Samdhan', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1387, 'Samthar', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1388, 'Sandi', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1389, 'Sandila', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1390, 'Sardhana', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1391, 'Seohara', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1392, 'Shahabad', ' Hardoi');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1393, 'Shahabad', ' Rampur');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1394, 'Shahganj', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1395, 'Shahjahanpur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1396, 'Shamli', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1397, 'Shamsabad', ' Agra');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1398, 'Shamsabad', ' Farrukhabad');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1399, 'Sherkot', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1400, 'Shikarpur', ' Bulandshahr');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1401, 'Shikohabad', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1402, 'Shishgarh', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1403, 'Siana', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1404, 'Sikanderpur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1405, 'Sikandra Rao', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1406, 'Sikandrabad', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1407, 'Sirsaganj', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1408, 'Sirsi', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1409, 'Sitapur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1410, 'Soron', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1411, 'Suar', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1412, 'Sultanpur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1413, 'Sumerpur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1414, 'Tanda', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1415, 'Tanda', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1416, 'Tetri Bazar', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1417, 'Thakurdwara', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1418, 'Thana Bhawan', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1419, 'Tilhar', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1420, 'Tirwaganj', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1421, 'Tulsipur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1422, 'Tundla', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1423, 'Unnao', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1424, 'Utraula', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1425, 'Varanasi', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1426, 'Vrindavan', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1427, 'Warhapur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1428, 'Zaidpur', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1429, 'Zamania', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1430, 'Almora', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1431, 'Bazpur', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1432, 'Chamba', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1433, 'Dehradun', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1434, 'Haldwani', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1435, 'Haridwar', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1436, 'Jaspur', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1437, 'Kashipur', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1438, 'kichha', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1439, 'Kotdwara', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1440, 'Manglaur', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1441, 'Mussoorie', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1442, 'Nagla', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1443, 'Nainital', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1444, 'Pauri', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1445, 'Pithoragarh', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1446, 'Ramnagar', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1447, 'Rishikesh', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1448, 'Roorkee', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1449, 'Rudrapur', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1450, 'Sitarganj', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1451, 'Tehri', 'Uttarakhand');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1452, 'Muzaffarnagar', 'Uttar Pradesh');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1453, 'Adra', ' Purulia');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1454, 'Alipurduar', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1455, 'Arambagh', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1456, 'Asansol', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1457, 'Baharampur', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1458, 'Bally', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1459, 'Balurghat', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1460, 'Bankura', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1461, 'Barakar', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1462, 'Barasat', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1463, 'Bardhaman', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1464, 'Bidhan Nagar', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1465, 'Chinsura', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1466, 'Contai', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1467, 'Cooch Behar', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1468, 'Darjeeling', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1469, 'Durgapur', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1470, 'Haldia', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1471, 'Howrah', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1472, 'Islampur', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1473, 'Jhargram', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1474, 'Kharagpur', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1475, 'Kolkata', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1476, 'Mainaguri', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1477, 'Mal', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1478, 'Mathabhanga', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1479, 'Medinipur', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1480, 'Memari', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1481, 'Monoharpur', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1482, 'Murshidabad', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1483, 'Nabadwip', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1484, 'Naihati', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1485, 'Panchla', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1486, 'Pandua', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1487, 'Paschim Punropara', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1488, 'Purulia', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1489, 'Raghunathpur', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1490, 'Raiganj', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1491, 'Rampurhat', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1492, 'Ranaghat', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1493, 'Sainthia', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1494, 'Santipur', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1495, 'Siliguri', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1496, 'Sonamukhi', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1497, 'Srirampore', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1498, 'Suri', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1499, 'Taki', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1500, 'Tamluk', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1501, 'Tarakeswar', 'West Bengal');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1502, 'Chikmagalur', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1503, 'Davanagere', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1504, 'Dharwad', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1505, 'Gadag', 'Karnataka');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1506, 'Chennai', 'Tamil Nadu');
+INSERT INTO cities(city_id, city_name, city_state) VALUES
+(1507, 'Coimbatore', 'Tamil Nadu');
